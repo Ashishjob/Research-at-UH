@@ -4,7 +4,11 @@
 
 ---
 
-Lately, there's been quite a bit of requests from individuals seeking research opportunities for undergraduates. Finding such labs can be a bit challenging, so I've gone ahead and compiled a list of the ones that I know below. If there are any additional ones you'd like to include, feel free to let me know, and I'll be sure to add them!
+<h3>Lately, there's been quite a bit of requests from individuals seeking research opportunities for undergraduates. Finding such labs can be a bit challenging, so I've gone ahead and compiled a list of the ones that I know below. If there are any additional ones you'd like to include, feel free to let me know, and I'll be sure to add them!</h3>
+
+---
+
+Before you look at the table below, here's a [pdf](https://www.uh.edu/nsm/computer-science/undergraduate/research/course-credit/research-projects-for-undergraduate-students-with-uh-cs-faculty.pdf) I found for Research projects for Undergrad Students with UHCS Faculty for Spring 2024!
 
 ---
 
