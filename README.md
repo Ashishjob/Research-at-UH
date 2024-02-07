@@ -10,6 +10,8 @@
 
 Before you look at the table below, here's a [pdf](https://www.uh.edu/nsm/computer-science/undergraduate/research/course-credit/research-projects-for-undergraduate-students-with-uh-cs-faculty.pdf) I found for Research projects for Undergrad Students with UHCS Faculty for Spring 2024!
 
+<h6>Just for disclosure, I don't know if these are up to date, or if any are outdated. If you happen to find out or just know about anything, please let me know to update or remove it.</h6>
+
 ---
 
 | Lab Name                                                                          | Description                                                                                          | How to Join                                                                                                     | Contact                     |
